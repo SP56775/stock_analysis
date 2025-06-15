@@ -72,4 +72,4 @@ Understand the historical performance of Reliance Industries stock (RELIANCE.NS)
 ## 1. Clone the repository
 ```bash
 git clone https://github.com/SP56775/stock_analysis.git
-cd stock_analysis
+cd stock_analysis/Stock_analysis

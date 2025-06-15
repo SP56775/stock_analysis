@@ -41,14 +41,23 @@ Understand the historical performance of Reliance Industries stock (RELIANCE.NS)
 
 ### 5. Visualize and Share Findings
 
-**Description**
-*Closing Price-> Tracks stock movement over time 
-*Daily Return-> Shows distribution of daily returns 
-*Cumulative Return-> Visualizes long-term investment growth 
-*Rolling Volatility- >Highlights risk fluctuations 
-*SMA Plot-> Shows trends via 50-day & 200-day moving averages 
+** Visualizations and their Insights:**
 
----
+- **Closing Price**  
+  → Tracks stock movement over time
+
+- ** Daily Return**  
+  → Shows distribution of daily returns
+
+- ** Cumulative Return**  
+  → Visualizes long-term investment growth
+
+- ** Rolling Volatility**  
+  → Highlights risk fluctuations over time
+
+- ** SMA Plot (50-day & 200-day)**  
+  → Shows trends and potential buy/sell signals using moving averages
+
 
 
 >  **Interactive Plotly graphs don't render on GitHub.**  
